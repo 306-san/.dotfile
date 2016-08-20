@@ -1,6 +1,6 @@
 # Other Settings
 export TERM="xterm-256color"
-source /usr/bin/virtualenvwrapper.sh
+[ -f /usr/bin/virtualenvwrapper.sh ] && source /usr/bin/virtualenvwrapper.sh
 export WORKON_HOME=~/.virtualenvs
 
 # Set up the prompt
