@@ -1,1 +1,0 @@
-/home/tk306/.zplug/repos/b4b4r07/79ee61f7c140c63d2786/get_last_pane_path.sh
